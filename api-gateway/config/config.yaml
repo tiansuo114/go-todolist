@@ -1,0 +1,5 @@
+server:
+  domain: user
+  port: 4000
+  jwtSecret: TianSuo
+  version: 1.0
