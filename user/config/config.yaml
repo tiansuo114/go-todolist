@@ -6,7 +6,7 @@ server:
 
 mysql:
   diverName: mysql
-  host: 172.24.201.56
+  host: 10.62.1.34
   port: 3306
   database: grpc_todolist_tmp
   username: root

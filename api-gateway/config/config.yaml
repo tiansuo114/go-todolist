@@ -3,3 +3,8 @@ server:
   port: 4000
   jwtSecret: TianSuo
   version: 1.0
+
+
+userApi:
+    address:
+    port: 10001
